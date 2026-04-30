@@ -1,4 +1,4 @@
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ad8322d5-2d8c-4b06-9b4a-0eef6f9ac807" /># ecommerce-sales-ba-project
+# ecommerce-sales-ba-project
 Business Analysis Portfolio Project - Increase Sales for an E-commerce Company
 Portfolio Project: "Increase Sales for an E-commerce Company"
 Scenario: You are a BA at a Swedish e-commerce company. The manager says: "We are losing customers and don't know why. We want to increase sales by 20% in 6 months."
